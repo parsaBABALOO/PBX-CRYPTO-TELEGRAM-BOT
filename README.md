@@ -11,6 +11,7 @@ An advanced quantitative machine learning architecture engineered for multi-hori
 ## 🌌 Core System Architecture
 
 The PBX Forecasting Engine bridges modern data engineering pipelines with gradient-boosting inference to deliver institutional-grade market signals.
+```bash
 [ Live Market Ingestion ] ──> ( yFinance API )
 │
 ▼
@@ -24,6 +25,7 @@ The PBX Forecasting Engine bridges modern data engineering pipelines with gradie
 │
 ▼
 [ Interactive Interface ] ──> ( Telegram Terminal / Bot Interface )
+```
 
 ---
 
@@ -67,8 +69,8 @@ The PBX Forecasting Engine bridges modern data engineering pipelines with gradie
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/parsaBABALOO/PBX-Quant-Forecasting-Engine.git](https://github.com/parsaBABALOO/PBX-Quant-Forecasting-Engine.git)
-cd PBX-Quant-Forecasting-Engine
+git clone [https://github.com/parsaBABALOO/PBX-CRYPTO-TELEGRAM-BOT.git](https://github.com/parsaBABALOO/PBX-CRYPTO-TELEGRAM-BOT.git)
+cd PBX-CRYPTO-TELEGRAM-BOT
 ```
 ### 2. Environment Ingestion & Dependency Installation
 ​Install all fundamental quantitative computing and interface libraries required for execution:
