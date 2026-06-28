@@ -4,7 +4,11 @@
 [![Framework](https://img.shields.io/badge/Framework-python--telegram--bot-orange.svg)](https://github.com/python-telegram-bot/python-telegram-bot)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An advanced quantitative machine learning architecture engineered for multi-horizon cryptocurrency price forecasting, technical indicator synthesis, and algorithmic risk-adjusted position sizing, deployed seamlessly via an interactive Telegram Bot interface.
+An advanced quantitative machine learning architecture engineered for multi-horizon cryptocurrency price forecasting, technical indicator synthesis, and algorithmic risk-adjusted position sizing.
+
+### 🚀 Live Production Terminal
+The live version of this forecasting terminal is deployed and active on Telegram. You can interact with the engine and generate real-time predictive models directly via the official handle:
+👉 **[@PBX_CryptoBot](https://t.me/PBX_CryptoBot)**
 
 ---
 
