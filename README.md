@@ -104,6 +104,7 @@ python main.py
 ---
 
 ## 📊 Empirical Performance Summary (Backtest)
+
 ​Predictive Directional Win Rate: 63% - 67% Consistent validation accuracy.
 ​Cumulative Strategy Yield: +289% Historical performance framework return.
 ​
