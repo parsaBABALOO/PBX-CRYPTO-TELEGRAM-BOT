@@ -114,3 +114,7 @@ python main.py
 ​This project is open-sourced under the terms of the MIT License.
 
 ---
+
+⭐ If this tool helped you, please give it a star!
+
+---
