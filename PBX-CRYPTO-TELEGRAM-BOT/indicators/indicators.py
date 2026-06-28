@@ -16,7 +16,7 @@ def add_indicators(df):
     df['bb_high'] = boll.bollinger_hband()  
     df['bb_low'] = boll.bollinger_lband()  
     
-    # ATR (قدرت نوسان)  
+    # ATR  
     df['atr'] = ta.volatility.AverageTrueRange(df['high'], df['low'], df['close']).average_true_range()
 
     # Stochastic RSI
