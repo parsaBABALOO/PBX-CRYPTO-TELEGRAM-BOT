@@ -6,10 +6,6 @@
 
 An advanced quantitative machine learning architecture engineered for multi-horizon cryptocurrency price forecasting, technical indicator synthesis, and algorithmic risk-adjusted position sizing.
 
-### 🚀 Live Production Terminal
-The live version of this forecasting terminal is deployed and active on Telegram. You can interact with the engine and generate real-time predictive models directly via the official handle:
-👉 **[@PBX_CryptoBot](https://t.me/PBX_CryptoBot)**
-
 ---
 
 ## 🌌 Core System Architecture
