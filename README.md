@@ -58,6 +58,7 @@ The PBX Forecasting Engine bridges modern data engineering pipelines with gradie
     ├── binance_data.py       # Asynchronous live data ingestion via yFinance
     ├── predictor.py          # Core ML inference wrapper & mathematical risk calculations
     └── dependency.py         # Cross-asset Bitcoin correlation factor tables
+---
 
 ## 🛠️ Installation & Deployment
 
@@ -95,10 +96,11 @@ $env:TELEGRAM_BOT_TOKEN="your_actual_bot_token_here"
 ```bash
 python main.py
 ```
+---
 ##📊 Empirical Performance Summary (Backtest)
 ​Predictive Directional Win Rate: 63% - 67% Consistent validation accuracy.
 ​Cumulative Strategy Yield: +289% Historical performance framework return.
-​
+​---
 ##📜 Software License
 ​This project is open-sourced under the terms of the MIT License.
 
