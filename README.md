@@ -45,7 +45,7 @@ The PBX Forecasting Engine bridges modern data engineering pipelines with gradie
 
 ## 📂 Project Structure & Layout
 
-`filesystem
+```filesystem
 ├── config.py                 # Master configuration, state maps, and token routing
 ├── main.py                   # High-level listener orchestration & bot boot engine
 ├── handlers/
@@ -58,6 +58,8 @@ The PBX Forecasting Engine bridges modern data engineering pipelines with gradie
     ├── binance_data.py       # Asynchronous live data ingestion via yFinance
     ├── predictor.py          # Core ML inference wrapper & mathematical risk calculations
     └── dependency.py         # Cross-asset Bitcoin correlation factor tables
+```
+
 ---
 
 ## 🛠️ Installation & Deployment
