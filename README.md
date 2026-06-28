@@ -45,7 +45,8 @@ The PBX Forecasting Engine bridges modern data engineering pipelines with gradie
 
 ## 📂 Project Structure & Layout
 
-```filesystem
+```bash
+### filesystem
 ├── config.py                 # Master configuration, state maps, and token routing
 ├── main.py                   # High-level listener orchestration & bot boot engine
 ├── handlers/
