@@ -2,7 +2,6 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.10%20%7C%203.11-blue.svg)](https://www.python.org)
 [![Framework](https://img.shields.io/badge/Framework-python--telegram--bot-orange.svg)](https://github.com/python-telegram-bot/python-telegram-bot)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An advanced quantitative machine learning architecture engineered for multi-horizon cryptocurrency price forecasting, technical indicator synthesis, and algorithmic risk-adjusted position sizing.
 
@@ -114,3 +113,21 @@ python main.py
 ​This project is open-sourced under the terms of the MIT License.
 
 ---
+
+
+
+---
+
+## ⚠️ Proprietary Notice & Intellectual Property
+
+**Copyright (c) 2026. All rights reserved.**
+
+This repository contains proprietary source code, architecture designs, and visual assets. By accessing this repository, you agree to the following strict terms and conditions:
+
+* **Educational Use Only:** Permission is granted solely for personal learning, educational simulation, and code-review purposes.
+* **No Replication or Modification:** You may not copy, modify, alter, or create derivative works (such as apps, themes, or websites) based on this source code.
+* **No Redistribution:** You are strictly prohibited from redistributing, publishing, or sub-licensing this code or any part of it anywhere on the web, including other personal or public repositories.
+* **No Commercialization:** This project may not be used, directly or indirectly, for any commercial ventures, business operations, or portfolio claiming.
+* **No Re-branding:** Claiming this specific architecture, logic layout, or styling as your own authorship is legally actionable.
+
+*Failure to comply with these terms constitutes a direct breach of copyright law and intellectual property rights.*
