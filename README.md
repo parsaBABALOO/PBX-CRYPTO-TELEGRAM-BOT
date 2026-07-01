@@ -137,6 +137,7 @@ This repository contains proprietary source code, architecture designs, and visu
 📬 Contact
 
 Developer: Parsa Babaloo
+
 The only way to contact the developer is via email:
 
 Email: parsababalo1403@gmail.com
