@@ -131,3 +131,16 @@ This repository contains proprietary source code, architecture designs, and visu
 * **No Re-branding:** Claiming this specific architecture, logic layout, or styling as your own authorship is legally actionable.
 
 *Failure to comply with these terms constitutes a direct breach of copyright law and intellectual property rights.*
+
+---
+
+📬 Contact
+
+Developer: Parsa Babaloo
+The only way to contact the developer is via email:
+
+Email: parsababalo1403@gmail.com
+
+Any other contact methods, accounts, or channels claiming association with this project are unofficial and should be ignored.
+
+---
